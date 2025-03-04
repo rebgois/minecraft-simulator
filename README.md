@@ -11,8 +11,8 @@ Um jogo de tiro em primeira pessoa inspirado no Minecraft, criado com Python e U
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd minecraft-shooter
+git clone https://github.com/rebgois/minecraft-simulator.git
+cd minecraft-simulator
 ```
 
 2. Instale as dependências:
